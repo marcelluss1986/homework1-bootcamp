@@ -1,4 +1,4 @@
-package com.mdss.homeworkChapterOne.sevices;
+package com.mdss.homeworkChapterOne.sevices.exception;
 
 public class ResourceNotFoundException extends RuntimeException{
 
